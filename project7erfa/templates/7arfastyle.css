@@ -1,9 +1,9 @@
  /* FONTS */
 @font-face {
     font-family:Manrope;
-    src: url(file:///D:/Mega__Hackaton/Page%20coding/fonts/manrope-regular.otf);
+    src: url(manrope-regular.otf);
     font-family:Space_Grotesk;
-    src: url(file:///D:/Mega__Hackaton/Page%20coding/fonts/SpaceGrotesk-Regular.otf);
+    src: url(SpaceGrotesk-Regular.otf);
 }
 
 *{
@@ -13,7 +13,7 @@
 
 /* BG img */
 body{
-    background-image: url(file:///D:/Mega__Hackaton/Page%20coding/images/BG.png);
+    background-image: url(BG.png);
     background-size:cover;
     background-repeat: no-repeat;
     position: absolute;
